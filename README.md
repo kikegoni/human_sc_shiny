@@ -51,7 +51,7 @@ cpfluger  9288     1  0 Nov19 ?        00:00:00 /usr/bin/Xvnc :34 -auth /home/cp
 - Start the VNC server (I am using port 23):  
 
 ```console
-[eecheverria@PEB-SRVNIX-STILETTO ~]$ vncserve  :23
+[eecheverria@PEB-SRVNIX-STILETTO ~]$ vncserver  :23
 ```    
 In your local PC:  
 
