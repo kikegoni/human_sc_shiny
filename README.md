@@ -69,7 +69,7 @@ In the VNCViewer terminal:
 
 ```console
 [eecheverria@PEB-SRVNIX-STILETTO ~]$ cd /scratchfs/<USER>  
-[eecheverria@PEB-SRVNIX-STILETTO ~]$ Rscript /dd_public/www/listerlab/kike/human_sc_brain_shiny/my_app.R
+[eecheverria@PEB-SRVNIX-STILETTO ~]$ /usr/bin/Rscript /dd_public/www/listerlab/kike/human_sc_brain_shiny/my_app.R
 ```  
 
 ## After closing the app
